@@ -43,7 +43,7 @@ Por fim, ele também lida bem com variáveis categoricas sem a necessidade de on
 
 # Pontos pendentes
 
-Com mais tempo seria possĩvel realizar mais atividades, como:
+Com mais tempo seria possível realizar mais atividades, como:
 - Uma análise mais profunda dos outliers
 - Treinar os modelos sem os outliers 
 - Combinação de features
